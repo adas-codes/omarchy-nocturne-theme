@@ -1,0 +1,34 @@
+# Nocturne — Omarchy theme
+# Based on the Aether export; semantic roles aligned with the selected palette.
+mode = "dark"
+
+accent = "#B7795E"
+selection = "#343630"
+selection_foreground = "#D0C9B9"
+muted = "#777970"
+
+background = "#171A18"
+dark_background = "#111311"
+darker_background = "#0B0D0C"
+lighter_background = "#222622"
+
+foreground = "#D0C9B9"
+dark_foreground = "#777970"
+light_foreground = "#E6E0D3"
+bright_foreground = "#E6E0D3"
+
+red = "#A47778"
+yellow = "#A18A58"
+orange = "#B7795E"
+green = "#7D8969"
+cyan = "#7F929F"
+blue = "#697E91"
+magenta = "#8C788D"
+brown = "#956451"
+
+bright_red = "#B98B8B"
+bright_yellow = "#B9A475"
+bright_green = "#94A17F"
+bright_cyan = "#9BAAB2"
+bright_blue = "#8CA0B0"
+bright_magenta = "#A18EA2"
